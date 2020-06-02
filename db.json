@@ -1,4 +1,10 @@
-[
-	{ "title": "The Name OfThe Wind", "author": "Patrick Rothfuss", "id": 1 },
-	{ "title": "The Way Of Kings", "author": "Brandon Sanderson", "id": 2 }
-]
+{
+	"books": [
+		{
+			"title": "The Name OfThe Wind",
+			"author": "Patrick Rothfuss",
+			"id": 1
+		},
+		{ "title": "The Way Of Kings", "author": "Brandon Sanderson", "id": 2 }
+	]
+}
